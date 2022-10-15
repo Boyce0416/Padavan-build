@@ -1,4 +1,4 @@
-name: RM2100
+name: RM2100_SQM
 
 on: 
   release:
